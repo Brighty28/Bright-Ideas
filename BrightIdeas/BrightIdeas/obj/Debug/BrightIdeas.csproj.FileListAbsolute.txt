@@ -1,0 +1,160 @@
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\BrightIdeas.dll.config
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\BrightIdeas.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\BrightIdeas.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\AutoMapper.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\AutoMapper.Net4.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\businesslogic.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\cms.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\controls.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Examine.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ImageProcessor.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ImageProcessor.Web.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\interfaces.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\log4net.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Lucene.Net.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\MiniProfiler.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\MySql.Data.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\SQLCE4Umbraco.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Data.SqlServerCe.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Http.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Mvc.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Razor.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\TidyNet.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Umbraco.Core.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.DataLayer.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.editorControls.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.MacroEngines.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.providers.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Umbraco.Web.UI.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\UmbracoExamine.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\AutoMapper.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\businesslogic.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\cms.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\controls.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Examine.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\interfaces.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Lucene.Net.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\MiniProfiler.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\MiniProfiler.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Http.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Mvc.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.Razor.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\Umbraco.Core.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.DataLayer.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.editorControls.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.MacroEngines.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\bin\umbraco.providers.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\obj\Debug\BrightIdeas.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\BrightIdeas\BrightIdeas\obj\Debug\BrightIdeas.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\obj\Debug\BrightIdeas.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\obj\Debug\BrightIdeas.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\obj\Debug\BrightIdeas.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\BrightIdeas.dll.config
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\BrightIdeas.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\BrightIdeas.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\AutoMapper.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\AutoMapper.Net4.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\businesslogic.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\cms.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\controls.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Examine.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ImageProcessor.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ImageProcessor.Web.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\interfaces.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\log4net.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Lucene.Net.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\MiniProfiler.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\MySql.Data.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\SQLCE4Umbraco.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Data.SqlServerCe.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Http.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Razor.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\TidyNet.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Umbraco.Core.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.DataLayer.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.editorControls.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.MacroEngines.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.providers.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Umbraco.Web.UI.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\UmbracoExamine.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\AutoMapper.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\businesslogic.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\cms.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\controls.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Examine.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\HtmlAgilityPack.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\interfaces.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Lucene.Net.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\MiniProfiler.pdb
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\MiniProfiler.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Http.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Razor.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Umbraco.Core.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.DataLayer.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.editorControls.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.MacroEngines.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\umbraco.providers.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\Microsoft.Web.Helpers.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\WebMatrix.WebData.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\WebMatrix.Data.dll
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\WebMatrix.WebData.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Documents\GitHub\Bright-Ideas\BrightIdeas\BrightIdeas\bin\WebMatrix.Data.xml

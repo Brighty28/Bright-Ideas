@@ -1,0 +1,17 @@
+﻿{
+  	propertyEditors:
+	[ 
+  		{
+  			alias: "Netaddicts.Gmaps",
+  			name: "Google maps",
+  			editor:
+  				{
+          			view: ""~/App_Plugins/GMaps/GMaps.html"
+         		}
+         }
+ 	],
+ 	javascript:
+ 	[
+ 		"~/App_Plugins/GMaps/GMaps.controller.js"
+ 	]
+ }
