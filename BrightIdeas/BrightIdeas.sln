@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightIdeas", "BrightIdeas\BrightIdeas.csproj", "{9026F6BA-3BB9-4D7A-9262-BE9914C12661}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightIdeas", "BrightIdeas\BrightIdeas.csproj", "{C8835937-C03D-450F-B857-5404E94FD6F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9026F6BA-3BB9-4D7A-9262-BE9914C12661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9026F6BA-3BB9-4D7A-9262-BE9914C12661}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9026F6BA-3BB9-4D7A-9262-BE9914C12661}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9026F6BA-3BB9-4D7A-9262-BE9914C12661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8835937-C03D-450F-B857-5404E94FD6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8835937-C03D-450F-B857-5404E94FD6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8835937-C03D-450F-B857-5404E94FD6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8835937-C03D-450F-B857-5404E94FD6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
