@@ -413,6 +413,19 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
+    <Content Include="Views\Contact1.cshtml" />
+    <Content Include="Views\Dopetrope.cshtml" />
+    <Content Include="Views\Overflow.cshtml" />
+    <Content Include="Views\PortfolioItem.cshtml" />
+    <Content Include="Views\PortfolioOverview.cshtml" />
+    <Content Include="Views\PropertyItem.cshtml" />
+    <Content Include="Views\PropertyOverview.cshtml" />
+    <Content Include="Views\Sitemap.cshtml" />
+    <Content Include="Views\umbHomePage.cshtml" />
+    <Content Include="Views\umbLayout.cshtml" />
+    <Content Include="Views\umbNewsItem.cshtml" />
+    <Content Include="Views\umbNewsOverview.cshtml" />
+    <Content Include="Views\umbTextPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

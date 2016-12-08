@@ -1,0 +1,100 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+	
+	// If the editor has not explicitly provided the "Page title" property page 
+    // then just show the name of the page otherwise show the provided title
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+	
+	// Model.Content is the current page that we're on
+    // AncestorsOrSelf is all of the ancestors this page has in the tree
+    // (1) means: go up to level 1 and stop looking for more ancestors when you get there
+    // First() gets the first ancestor found (the home page, on level 1)
+    var homePage = CurrentPage.AncestorsOrSelf(1).First(); 
+		
+	// Find all pages with document type alias umbNewsOverview
+    // We do that using the plural, umbNewsOverviews (note the extra "s" in the end)
+    // Then take the first one, as we know there will only be on news overview page
+    var propertyOverview = homePage.umbPropertyOverviews.First();
+
+    // Similar to above: find all pages with document type umbNewsItem under the news overview page
+    var propertyItems = propertyOverview.umbPropertyDetails;
+	
+	var lat = CurrentPage.Map.Latitude;
+	  var lng = CurrentPage.Map.Longitude;
+	  var zoom = CurrentPage.Map.Zoom;
+	
+	// Only works if format is Json or Csv with Search
+	  var searchtyped = CurrentPage.Map.SearchTyped;	
+}
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 400px;
+		/*width: 200px;*/
+      }
+
+	div[id^=map] #map-marker-container, div[id^=map] .map-marker-container {
+		position: relative;
+		max-width: 300px;
+		font-size: 14px;
+		background-color: #fff;
+		background-color: rgba(255, 255, 255, 0.9);
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-ms-transition: all 0.3s;
+		-o-transition: all 0.3s;
+		transition: all 0.3s;
+	}
+
+	div[id^=map] .cluster img {
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+	div[id^=map] .cluster > div {
+		position: relative;
+		width: auto;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+		font-size: 15px !important;
+		font-weight: 700 !important;
+		color: #fff !important;
+	}
+
+	div[id^=map] #map-marker-container img, div[id^=map] .map-marker-container img {
+		width: 100%;
+		height: auto;
+	}
+
+	div[id^=map] img {
+		max-width: none;
+		display: inline;
+	}
+      
+    </style>
+
+<div class="container">
+	<div id="map"></div>	
+	
+	<header>
+		<h2>@pageTitle</h2>
+		<p>@Umbraco.Field("bodyText", recursive: true)</p>
+	</header>
+	<div class="row">
+		@foreach (var item in propertyItems)
+		{
+			<div class="4u 12u(mobile)">
+				<article class="box style2">
+					<a href="#" class="image featured"><img src="@item.images" alt=""></a>
+					
+					<h3><a href="#">@item.Title</a></h3>
+						<p>@Umbraco.Truncate(item.MainSummary, 100)</p>
+				</article>
+			</div>
+												
+		}
+	</div>
+</div>
